@@ -4,13 +4,10 @@ Open `index.html` in any code editor. Every place that needs your real informati
 
 ## Add your information
 
-1. Replace `[ YOUR NAME ]` in the header and footer.
-2. Replace the two hero-heading lines and the short introductory sentence.
-3. In **About**, replace the biography sentence and the four values marked with `—`.
-4. Put your image in an `images` folder beside `index.html`, then replace the `portrait-frame` block with an `<img>` tag. Add CSS for the image as needed.
-5. For each project, replace `Untitled project`, `Category · Year`, and the gray project visual. Duplicate a full `<article class="project-item">...</article>` block to add a project.
-6. Replace `YOUR@EMAIL.COM` and change `href="#"` to `href="mailto:your@email.com"`.
-7. Change the text in the Approach section to a sentence that reflects your actual working style.
+1. Your supplied name, email, phone number, location, study focus, and introduction have already been added.
+2. Put your image in an `images` folder beside `index.html`, then replace the `portrait-frame` block with an `<img>` tag. Add CSS for the image as needed.
+3. For each project, replace `Untitled project`, `Category · Year`, and the gray project visual. Duplicate a full `<article class="project-item">...</article>` block to add a project.
+4. Change the text in the Approach section to a sentence that reflects your actual working style.
 
 ## Preview it
 
