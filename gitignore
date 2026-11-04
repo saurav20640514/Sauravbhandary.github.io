@@ -1,0 +1,15 @@
+# Secrets and local config
+.env
+.env.*
+*.pem
+*.key
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Dependencies and logs
+node_modules/
+*.log
